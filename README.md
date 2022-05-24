@@ -2,4 +2,4 @@
 This repository contains my portfolio where my projects, education details, skills etc are listed. 
 <br> You can send me an email using this website.</br>
 # Languages Used
-CSS, HTML, Javascript, SASS
+CSS, HTML, Javascript, SCSS
